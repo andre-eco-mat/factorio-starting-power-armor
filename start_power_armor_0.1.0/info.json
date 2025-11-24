@@ -1,0 +1,11 @@
+{
+  "name": "start_power_armor",
+  "version": "0.1.0",
+  "title": "Start Power Armor",
+  "author": "Tyler",
+  "contact": "",
+  "homepage": "",
+  "description": "Gives new players one Power Armor in inventory on spawn and optionally auto-equips it.",
+  "factorio_version": "2.0",
+  "dependencies": []
+}
